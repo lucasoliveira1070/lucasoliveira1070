@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left"><a href="https://storage.googleapis.com/bucket-lucas-oliveira-se-portfolio/foto%20cv.jpg" target="_blank">
+<h2 align="left"><a href="https://storage.googleapis.com/bucket-lucas-oliveira-se-portfolio/index.html" target="_blank">
   <p>Portfolio</p>
   </a></h2>
 
