@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Software engineer with over 5 years of experience and a constant learner. In this repository, you will find personal projects and study repositories.</h4>
+<h5 align="left">Software engineer with over 5 years of experience and a constant learner. In this repository, you will find personal projects and study repositories.</h5>
 
 ###
 
@@ -49,6 +49,11 @@
 </div>
 
 ###
+
+<h2 align="left"><a href="https://storage.googleapis.com/bucket-lucas-oliveira-se-portfolio/foto%20cv.jpg" target="_blank">
+  <p>Portfolio</p>
+  </a></h2>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasoliveira1070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="139" alt="languages graph"  />
