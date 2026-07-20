@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Software Engineer at Dasa🏣</h2>
+<h2 align="left">Software Engineer at goFlux🏣</h2>
 
 ###
 
